@@ -4,7 +4,7 @@ from random import randint
 from time import sleep
 import config
 
-# '5385053839:AAF9RePzgHFRXi-1xdivy82OJj9cObwbPKY'
+
 bot = telebot.TeleBot('5385053839:AAF9RePzgHFRXi-1xdivy82OJj9cObwbPKY')
 STICKER_WIN = 'CAACAgIAAxkBAAIDoGO0jZYS_ER-OChh_h69KUWB8FYkAAIVAAPANk8TzVamO2GeZOctBA'
 STICKER_LOOSE = 'CAACAgIAAxkBAAID1WO1a3JS9a5B3QABQdhh_JmjFSonmwACGgADwDZPE4LbsLU8BkFXLQQ'
